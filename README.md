@@ -13,7 +13,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l19556632521)](https://github.com/l19556632521/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l19556632521&layout=donut-vertical)](https://github.com/l19556632521/github-readme-stats)
 
 <br>
 
